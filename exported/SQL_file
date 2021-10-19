@@ -1,0 +1,4 @@
+SELECT capitals.country, capitals.capital
+FROM capitals
+JOIN capitals on capitals.country = capitals.capital
+
