@@ -1,6 +1,8 @@
 # Project_2
 Second Coding Project
 
+Buit a database that contains information on different countries including the capitals as well as the average exports of each country 
+
 EXTRACT:
 
 I first extracted data on how much each country has exported (in USD) by searching the internet. I came across a wikipedia page that listed those things out and I copied
